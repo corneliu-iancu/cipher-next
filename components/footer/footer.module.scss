@@ -1,0 +1,9 @@
+// @import "../../node_modules/bootstrap/scss/variables";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+.footer {
+  background-color: $gray-100;
+  height: 10rem;
+}
