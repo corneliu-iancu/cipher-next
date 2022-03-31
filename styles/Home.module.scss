@@ -3,6 +3,14 @@
 @import "~bootstrap/scss/mixins";
 
 .main {
-  min-height: calc(100vh - 80px);
+  // min-height: calc(100vh - 80px);
   background: $gray-200;
+}
+
+.ctaContainer {
+  background: rgba(0,0,0,0.15);
+}
+
+.ctaContainerBtn {
+  flex: 1;
 }
